@@ -207,4 +207,4 @@ This repository serves as the official landing page for Everhood. The software i
 **Get the most recent version of Everhood today!**
 
 ---
-**Last updated:** 2026-11-07 22:23:54 UTC
+**Last updated:** 2026-11-08 01:55:11 UTC
